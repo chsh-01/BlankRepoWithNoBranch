@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T08:05:21.621Z",
+  "generatedAt": "2026-10-13T08:07:47.229Z",
   "repo": {
     "connectorId": 102,
     "repoSlug": "chsh-01/BlankRepoWithNoBranch",
@@ -46,6 +46,13 @@
       "name": "CS_new",
       "kind": "test-case",
       "repoPath": "TC-11-CS_new.spec.ts"
+    },
+    {
+      "assetId": 11260,
+      "displayId": "TC-13",
+      "name": "CS_new1",
+      "kind": "test-case",
+      "repoPath": "TC-13-CS_new1.spec.ts"
     }
   ],
   "files": [
@@ -63,6 +70,14 @@
       "displayId": "TC-11",
       "name": "CS_new",
       "repoPath": "TC-11-CS_new.spec.ts",
+      "parentAssetId": 9473
+    },
+    {
+      "assetId": 11260,
+      "assetKind": "test-case",
+      "displayId": "TC-13",
+      "name": "CS_new1",
+      "repoPath": "TC-13-CS_new1.spec.ts",
       "parentAssetId": 9473
     },
     {
