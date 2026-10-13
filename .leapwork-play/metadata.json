@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T08:04:53.091Z",
+  "generatedAt": "2026-10-13T08:05:21.621Z",
   "repo": {
     "connectorId": 102,
     "repoSlug": "chsh-01/BlankRepoWithNoBranch",
@@ -32,6 +32,13 @@
       "name": "agent2",
       "kind": "agent",
       "repoPath": "AG-1-agent2.agent.json"
+    },
+    {
+      "assetId": 10702,
+      "displayId": "TC-9",
+      "name": "CheckOwnerNamereflect",
+      "kind": "test-case",
+      "repoPath": "TC-9-CheckOwnerNamereflect.spec.ts"
     },
     {
       "assetId": 11258,
@@ -72,6 +79,14 @@
       "displayId": "TC-6",
       "name": "AddMultipleProductsToCart",
       "repoPath": "TC-6-AddMultipleProductsToCart.spec.ts",
+      "parentAssetId": 9473
+    },
+    {
+      "assetId": 10702,
+      "assetKind": "test-case",
+      "displayId": "TC-9",
+      "name": "CheckOwnerNamereflect",
+      "repoPath": "TC-9-CheckOwnerNamereflect.spec.ts",
       "parentAssetId": 9473
     }
   ]
