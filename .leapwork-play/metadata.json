@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T08:45:27.178Z",
+  "generatedAt": "2026-10-13T09:19:30.015Z",
   "repo": {
     "connectorId": 102,
     "repoSlug": "chsh-01/BlankRepoWithNoBranch",
@@ -60,6 +60,13 @@
       "name": "CS_new1",
       "kind": "test-case",
       "repoPath": "TC-13-CS_new1.spec.ts"
+    },
+    {
+      "assetId": 10700,
+      "displayId": "TC-7",
+      "name": "NewtestCheckOwner",
+      "kind": "test-case",
+      "repoPath": "TC-7-NewtestCheckOwner.spec.ts"
     }
   ],
   "files": [
@@ -109,6 +116,14 @@
       "displayId": "TC-6",
       "name": "AddMultipleProductsToCart",
       "repoPath": "TC-6-AddMultipleProductsToCart.spec.ts",
+      "parentAssetId": 9473
+    },
+    {
+      "assetId": 10700,
+      "assetKind": "test-case",
+      "displayId": "TC-7",
+      "name": "NewtestCheckOwner",
+      "repoPath": "TC-7-NewtestCheckOwner.spec.ts",
       "parentAssetId": 9473
     },
     {
