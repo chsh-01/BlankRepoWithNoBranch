@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T04:51:24.013Z",
+  "generatedAt": "2026-10-21T04:51:35.262Z",
   "repo": {
     "connectorId": 102,
     "repoSlug": "chsh-01/BlankRepoWithNoBranch",
@@ -76,6 +76,13 @@
       "repoPath": "TC-3-NavigateRetailSections.spec.ts"
     },
     {
+      "assetId": 11257,
+      "displayId": "TC-10",
+      "name": "New - Copy",
+      "kind": "test-case",
+      "repoPath": "TC-10-New-Copy.spec.ts"
+    },
+    {
       "assetId": 10700,
       "displayId": "TC-7",
       "name": "NewtestCheckOwner",
@@ -97,6 +104,14 @@
       "displayId": "AG-1",
       "name": "agent2",
       "repoPath": "AG-1-agent2.agent.json",
+      "parentAssetId": 9473
+    },
+    {
+      "assetId": 11257,
+      "assetKind": "test-case",
+      "displayId": "TC-10",
+      "name": "New - Copy",
+      "repoPath": "TC-10-New-Copy.spec.ts",
       "parentAssetId": 9473
     },
     {
